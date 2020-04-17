@@ -1,0 +1,14 @@
+C:\Users\Dingli.colrf01\Source\Repos\SchoolDriver\SchoolDriver\SchoolDriver\bin\Debug\netstandard2.0\SchoolDriver.deps.json
+C:\Users\Dingli.colrf01\Source\Repos\SchoolDriver\SchoolDriver\SchoolDriver\bin\Debug\netstandard2.0\SchoolDriver.dll
+C:\Users\Dingli.colrf01\Source\Repos\SchoolDriver\SchoolDriver\SchoolDriver\obj\Debug\netstandard2.0\SchoolDriver.csprojAssemblyReference.cache
+C:\Users\Dingli.colrf01\Source\Repos\SchoolDriver\SchoolDriver\SchoolDriver\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Dingli.colrf01\Source\Repos\SchoolDriver\SchoolDriver\SchoolDriver\obj\Debug\netstandard2.0\SchoolDriver.AssemblyInfoInputs.cache
+C:\Users\Dingli.colrf01\Source\Repos\SchoolDriver\SchoolDriver\SchoolDriver\obj\Debug\netstandard2.0\SchoolDriver.AssemblyInfo.cs
+C:\Users\Dingli.colrf01\Source\Repos\SchoolDriver\SchoolDriver\SchoolDriver\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\Dingli.colrf01\Source\Repos\SchoolDriver\SchoolDriver\SchoolDriver\obj\Debug\netstandard2.0\SchoolDriver.csproj.CoreCompileInputs.cache
+C:\Users\Dingli.colrf01\Source\Repos\SchoolDriver\SchoolDriver\SchoolDriver\bin\Debug\netstandard2.0\ref\SchoolDriver.dll
+C:\Users\Dingli.colrf01\Source\Repos\SchoolDriver\SchoolDriver\SchoolDriver\bin\Debug\netstandard2.0\SchoolDriver.pdb
+C:\Users\Dingli.colrf01\Source\Repos\SchoolDriver\SchoolDriver\SchoolDriver\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Dingli.colrf01\Source\Repos\SchoolDriver\SchoolDriver\SchoolDriver\obj\Debug\netstandard2.0\SchoolDriver.dll
+C:\Users\Dingli.colrf01\Source\Repos\SchoolDriver\SchoolDriver\SchoolDriver\obj\Debug\netstandard2.0\ref\SchoolDriver.dll
+C:\Users\Dingli.colrf01\Source\Repos\SchoolDriver\SchoolDriver\SchoolDriver\obj\Debug\netstandard2.0\SchoolDriver.pdb
